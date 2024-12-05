@@ -10,5 +10,5 @@ This project includes a bash script that prints numbers from 1 to 50.
    cd linux-final-project
 3. Make the script executable:
    chmod +x count.sh
-4.Run the script:
+4. Run the script:
    ./count.sh
